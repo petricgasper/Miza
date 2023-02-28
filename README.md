@@ -1,0 +1,2 @@
+# Miza
+Moj prvi repozitorij.
